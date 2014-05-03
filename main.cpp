@@ -10,6 +10,9 @@
 
 int main(int argc, const char * argv[])
 {
+    printf("%n", 10);
+    
+    
     // Add something more
     // And make it works
     std::cout << "This is the first git-hub application" << std::endl;
