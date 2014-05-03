@@ -10,7 +10,11 @@
 
 int main(int argc, const char * argv[])
 {
-
+    // Add something more
+    // And make it works
+    std::cout << "This is the first git-hub application" << std::endl;
+    
+    
     // insert code here...
     std::cout << "Hello, World!\n";
     return 0;
